@@ -8,9 +8,13 @@ import java.util.Date;
 import java.util.List;
 
 /**
- *
- * @author FAHREZI FIKRI AL KHAFID_2311103056_SI07B
+ * @author KELOMPOK 14: 
+ * FAHREZI FIKRI AL KHAFID 2311103056 
+ * FARADHA ATMARIANI 2311103081
+ * BRIMA FERNANDA SINUPAYUNG 2211103028 
+ * KELAS SI07B
  */
+
 public class Transaksi {
     private String idTransaksi;
     private List<Makanan> listMakanan;
